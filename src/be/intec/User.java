@@ -12,9 +12,9 @@ public class User {
     }
 
     //Methods
-    public void sayHellosay(){
+    public void sayHello(){
 
-        System.out.println("Hi, my name is " + this.name);
+        System.out.println("Hi, my name is " + name);
     }
 
 
